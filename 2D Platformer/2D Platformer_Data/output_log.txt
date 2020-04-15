@@ -1,0 +1,93 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x5a84)
+    Vendor:   Intel
+    VRAM:     1112 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\2D-Platformer\2D Platformer\2D Platformer_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.470180 ms
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 38.843578 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.636258 ms (FindLiveObjects: 0.069239 ms CreateObjectMapping: 0.029941 ms MarkObjects: 0.516492 ms  DeleteObjects: 0.017777 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.205148 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.715790 ms (FindLiveObjects: 0.065497 ms CreateObjectMapping: 0.033684 ms MarkObjects: 0.320936 ms  DeleteObjects: 0.293801 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.319300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.372398 ms (FindLiveObjects: 0.057076 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.282573 ms  DeleteObjects: 0.011228 ms)
+
+Učitavanje razine:Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652164 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.370527 ms (FindLiveObjects: 0.066432 ms CreateObjectMapping: 0.028070 ms MarkObjects: 0.262924 ms  DeleteObjects: 0.010292 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.230411 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.677428 ms (FindLiveObjects: 0.058011 ms CreateObjectMapping: 0.027134 ms MarkObjects: 0.287251 ms  DeleteObjects: 0.304094 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.230411 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.398597 ms (FindLiveObjects: 0.061754 ms CreateObjectMapping: 0.024327 ms MarkObjects: 0.297544 ms  DeleteObjects: 0.013099 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.693334 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.411696 ms (FindLiveObjects: 0.053333 ms CreateObjectMapping: 0.019649 ms MarkObjects: 0.321871 ms  DeleteObjects: 0.014970 ms)
+
+Gašenje!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2774 -> priority: 1 
+  Thread -> id: 219c -> priority: 1 
